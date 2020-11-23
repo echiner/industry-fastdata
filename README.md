@@ -6,6 +6,7 @@ Very simple data loader, which converts a dataset into a real-time feed (using N
 
 * **Air Quality Dataset**: https://www.kaggle.com/yungbyun/sensor-data
 * **Water Pump Sensors Dataset**: https://www.kaggle.com/nphantawee/pump-sensor-data
+  * Local dataset reduced. For the full file, go to the original source.
 
 ## Setup
 
